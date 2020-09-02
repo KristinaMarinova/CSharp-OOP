@@ -1,1 +1,1 @@
-# CSharp-OOP from CSharp Advanced module
+# C# OOP course from C# Advanced module
